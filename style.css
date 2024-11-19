@@ -260,14 +260,6 @@ nav ul li a {
     font-size: 1.05rem;
 }
 
-.project-title a svg:hover {
-    fill: var(--primaryIconColor);
-}
-
-.project-title a svg {
-    transition: 0.2s ease-in-out;
-}
-
 .project-tags {
     display: flex;
     gap: 1rem;
