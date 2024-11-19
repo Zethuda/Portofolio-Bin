@@ -1,13 +1,3 @@
-//scroll into view
-let ScrollButton1 = document.getElementById('scroll-service');
-let Target1 = document.getElementById('services')
-
-scrollButton1.addEventListener('click', function() {
-    target1.scrollIntoView({
-        behavior: 'smooth'
-    });
-});
-
 //toggle Responsive
 const navSlide = () => {
     const burger = document.querySelector(".burger");
